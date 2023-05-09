@@ -7,10 +7,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
-    
-    
   },
   "devDependencies": {
     "@astrojs/tailwind": "^2.0.2",
@@ -22,9 +20,9 @@
   "dependencies": {
     "click-outside-vue3": "^4.0.1",
     "daisyui": "^2.31.0",
+    "gh-pages": "^5.0.0",
     "maska": "^1.5.0",
     "swiper": "^8.4.4",
     "tailwind-colors": "^1.1.0"
   }
-  
 }
