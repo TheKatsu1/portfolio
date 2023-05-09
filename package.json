@@ -1,11 +1,16 @@
 {
-  "private": true,
+  "homepage": "https://thekatsu1.github.io/portfolio",
+  "private": false,
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
+    
+    
   },
   "devDependencies": {
     "@astrojs/tailwind": "^2.0.2",
