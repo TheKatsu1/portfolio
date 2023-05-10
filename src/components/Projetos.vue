@@ -4,7 +4,7 @@
             class="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-kldarkblue to-klblue text-center">
             Projetos</h2>
     </div>
-    <div class="grid grid-cols-1 lg:grid-cols-3 pt-10 place-items-center">
+    <div class="grid grid-cols-1 lg:grid-cols-3 pt-10 place-items-center gap-6">
         <div class="max-w-sm bg-white border-2 border-kldarkblue rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="https://hitcookie.com.br">
                 <img class="rounded-t-lg" src="assets/img/hitcookie.png" alt="" />

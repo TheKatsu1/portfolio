@@ -49,12 +49,12 @@
                 <div class="hidden sm:flex w-full bg-klblue h-0.5"></div>
             </div>
             <div class="">
-                <h3 class="text-lg font-bold text-kldarkblue">Sistemas de Informação</h3>
+                <h3 class="text-lg font-bold text-kldarkblue">Graduação</h3>
 
                 <time class="block mb-2 text-sm font-normal leading-none text-klblue"><i
                         class="fa-regular fa-calendar text-klblue"></i> 2021 - 2024</time>
-                <p class="text-base font-normal text-gray-500 dark:text-gray-400">Em 2021 inicei minha graduação em Sistemas
-                    de Informação na UniFOA, com previsão de conclusão ao final de 2024</p>
+                <p class="text-base font-normal text-gray-500 dark:text-gray-400">Inicei minha graduação em Sistemas
+                    de Informação na UniFOA, conclusão prevista para o final de 2024.</p>
             </div>
         </li>
 
