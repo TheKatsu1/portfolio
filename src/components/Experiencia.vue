@@ -53,8 +53,9 @@
 
                 <time class="block mb-2 text-sm font-normal leading-none text-klblue"><i
                         class="fa-regular fa-calendar text-klblue"></i> 2021 - 2024</time>
-                <p class="text-base font-normal text-gray-500 dark:text-gray-400">Inicei minha graduação em Sistemas
-                    de Informação na UniFOA, conclusão prevista para o final de 2024.</p>
+                <p class="text-base font-normal text-gray-500 dark:text-gray-400">Inicei minha graduação em Sistemas de
+                    Informação na UniFOA, conclusão prevista para 2024.</p>
+
             </div>
         </li>
 
