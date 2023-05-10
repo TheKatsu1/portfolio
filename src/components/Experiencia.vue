@@ -4,7 +4,7 @@
             class="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-kldarkblue to-klblue text-center">
             Experiência</h2>
     </div>
-    <ol class="items-center sm:flex px-14 gap-4">
+    <ol class="items-center sm:flex px-10 gap-4">
         <li class="relative mb-6 sm:mb-0">
             <div class="flex items-center">
                 <div
