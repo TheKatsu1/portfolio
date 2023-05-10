@@ -4,7 +4,7 @@
             class="text-3xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-kldarkblue to-klblue text-center">
             Experiência</h2>
     </div>
-    <ol class="items-center sm:flex px-14">
+    <ol class="items-center sm:flex px-14 gap-4">
         <li class="relative mb-6 sm:mb-0">
             <div class="flex items-center">
                 <div
@@ -13,7 +13,7 @@
                 </div>
                 <div class="hidden sm:flex w-full bg-klblue h-0.5"></div>
             </div>
-            <div class="mt-3 sm:pr-8">
+            <div class="">
                 <h3 class="text-lg font-bold text-kldarkblue">Técnico de Informática</h3>
 
                 <time class="block mb-2 text-sm font-normal leading-none text-klblue"><i
@@ -31,7 +31,7 @@
                 </div>
                 <div class="hidden sm:flex w-full bg-klblue h-0.5"></div>
             </div>
-            <div class="mt-3 sm:pr-8">
+            <div class="">
                 <h3 class="text-lg font-bold text-kldarkblue">Projetos Pessoais</h3>
 
                 <time class="block mb-2 text-sm font-normal leading-none text-klblue"><i
@@ -48,7 +48,7 @@
                 </div>
                 <div class="hidden sm:flex w-full bg-klblue h-0.5"></div>
             </div>
-            <div class="mt-3 sm:pr-8">
+            <div class="">
                 <h3 class="text-lg font-bold text-kldarkblue">Sistemas de Informação</h3>
 
                 <time class="block mb-2 text-sm font-normal leading-none text-klblue"><i
@@ -66,14 +66,15 @@
                 </div>
                 <div class="hidden sm:flex w-full bg-klblue h-0.5"></div>
             </div>
-            <div class="mt-3 sm:pr-8">
+            <div class="">
                 <h3 class="text-lg font-bold text-kldarkblue">Desenvolvedor Front-End</h3>
 
                 <time class="block mb-2 text-sm font-normal leading-none text-klblue"><i
                         class="fa-regular fa-calendar text-klblue"></i> 2022 - 2023</time>
                 <p class="text-base font-normal text-gray-500 dark:text-gray-400">Estágio na empresa DEC9 - Marketing e
                     Tecnologia onde atuei como desenvolver front-end sendo responsável pela criação de websites e landing
-                pages.</p>
-        </div>
-    </li>
-</ol></template>
+                    pages.</p>
+            </div>
+        </li>
+    </ol>
+</template>

@@ -13,34 +13,35 @@
         </button>
       </div>
       <div v-bind:class="{ 'hidden': !showMenu, 'flex': showMenu }" class="lg:flex lg:flex-grow items-center">
-        <ul class="flex flex-col lg:flex-row list-none ml-auto">
+        <ul class="flex flex-col lg:flex-row list-none ml-auto gap-6">
           <li class="nav-item">
-            <a class="px-3 py-2 flex items-center text-md leading-snug text-klwhite hover:text-kldarkblue" href="#">
-              <span class="ml-2 font-semibold">Sobre</span>
+            <a class="py-2 flex items-center text-md leading-snug text-klwhite link link-underline link-underline-black"
+              href="#">
+              <span class="font-semibold">Sobre</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="px-3 py-2 flex items-center text-md leading-snug text-klwhite hover:text-kldarkblue"
+            <a class="py-2 flex items-center text-md leading-snug text-klwhite link link-underline link-underline-black"
               href="#Habilidades">
-              <span class="ml-2 font-semibold">Habilidades</span>
+              <span class="font-semibold">Habilidades</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="px-3 py-2 flex items-center text-md leading-snug text-klwhite hover:text-kldarkblue"
+            <a class="py-2 flex items-center text-md leading-snug text-klwhite link link-underline link-underline-black"
               href="#Experiencia">
-              <span class="ml-2 font-semibold">Experiência</span>
+              <span class="font-semibold">Experiência</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="px-3 py-2 flex items-center text-md leading-snug text-klwhite hover:text-kldarkblue"
+            <a class="py-2 flex items-center text-md leading-snug text-klwhite link link-underline link-underline-black"
               href="#Projetos">
-              <span class="ml-2 font-semibold">Projetos</span>
+              <span class="font-semibold">Projetos</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="px-3 py-2 flex items-center text-md leading-snug text-klwhite hover:text-kldarkblue "
+            <a class="py-2 flex items-center text-md leading-snug text-klwhite link link-underline link-underline-black"
               href="#Contato">
-              <span class="ml-2 font-semibold">Contato</span>
+              <span class="font-semibold">Contato</span>
             </a>
           </li>
         </ul>
@@ -64,3 +65,19 @@ export default {
   }
 }
 </script>
+
+<style>
+.link-underline {
+  border-bottom-width: 0;
+  background-image: linear-gradient(transparent, transparent), linear-gradient(#fff, #fff);
+  background-size: 0 2px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size .25s ease-in-out;
+}
+
+.link-underline:hover {
+  background-size: 100% 2px;
+  background-position: 0 100%
+}
+</style>
