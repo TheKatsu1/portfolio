@@ -12,7 +12,7 @@
                 técnico em informática e posso dizer que sou apaixonado pelo desenvolvimento front-end e pelos conceitos de
                 UX/UI Design.</p>
 
-            <a type="button" href="https://wa.me/5524999445848"
+            <a type="button" href="https://wa.me/5524999445848" target="_blank"
                 class="text-white bg-gradient-to-br from-kldarkblue to-klblue hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-indigo-300 dark:focus:ring-indigo-800 font-medium rounded-lg text-xl px-8 py-4 text-center mb-8">Contato</a>
         </div>
 

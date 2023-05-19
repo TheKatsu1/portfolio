@@ -5,7 +5,7 @@
 
 
             <div>
-                <a type="button" href="https://www.linkedin.com/in/joaovictorsdomingues/" class="">
+                <a type="button" href="https://www.linkedin.com/in/joaovictorsdomingues/" target="_blank" class="">
                     <img class="w-16 duration-300 group-hover:scale-110 mx-auto" src="assets\img\linkedin.png" alt="" />
                     <p class="text-white text-xl font-medium text-center pt-2">Linkedin</p>
                     <span class="text-center text-grey-400">@joaovictorsdomingues</span>
@@ -13,7 +13,7 @@
             </div>
 
             <div>
-                <a type="button" href="https://github.com/TheKatsu1" class="">
+                <a type="button" href="https://github.com/TheKatsu1" target="_blank" class="">
                     <img class="w-16 duration-300 group-hover:scale-110 mx-auto" src="assets\img\github.png" alt="" />
                     <p class="text-white text-xl font-medium text-center pt-2">GitHub</p>
                     <span class="text-center text-grey-400">@TheKatsu1</span>
@@ -21,7 +21,7 @@
             </div>
 
             <div>
-                <a type="button" href="https://wa.me/5524999445848" class="">
+                <a type="button" href="https://wa.me/5524999445848" target="_blank" class="">
                     <img class="w-16 duration-300 group-hover:scale-110 mx-auto" src="assets\img\whatsapp.png" alt="" />
                     <p class="text-white text-xl font-medium text-center pt-2">Whatsapp</p>
                     <span class="text-center text-grey-400">(24) 99944-5848</span>
@@ -29,7 +29,7 @@
             </div>
 
             <div>
-                <a type="button" href="mailto:thekatsu2@gmail.com" class="">
+                <a type="button" href="mailto:thekatsu2@gmail.com" target="_blank" class="">
                     <img class="w-16 duration-300 group-hover:scale-110 mx-auto" src="assets\img\email.png" alt="" />
                     <p class="text-white text-xl font-medium text-center pt-2">E-mail</p>
                     <span class="text-center text-grey-400">thekatsu2@gmail.com</span>

@@ -6,7 +6,7 @@
     </div>
     <div class="grid grid-cols-1 lg:grid-cols-3 pt-10 place-items-center gap-6">
         <div class="max-w-sm bg-white border-2 border-kldarkblue rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-            <a href="https://hitcookie.com.br">
+            <a href="https://hitcookie.com.br" target="_blank">
                 <img class="rounded-t-lg" src="assets/img/hitcookie.png" alt="" />
             </a>
             <div class="p-5">
@@ -29,7 +29,7 @@
                     e cafeteria HitCookie. </p> <br>
 
 
-                <a href="https://hitcookie.com.br"
+                <a href="https://hitcookie.com.br" target="_blank"
                     class="inline-flex items-center px-3 py-2 text-sm font-medium text-center bg-gradient-to-br from-kldarkblue to-klblue hover:bg-gradient-to-bl focus:ring-4 focus:outline-none text-white rounded-md group">
                     Acesse
                     <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1 group-hover:translate-x-1 duration-100"
@@ -44,7 +44,7 @@
 
 
         <div class="max-w-sm bg-white border-2 border-kldarkblue rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-            <a href="https://lp.poloconstrutora.com.br/gran-life/">
+            <a href="https://lp.poloconstrutora.com.br/gran-life/" target="_blank">
                 <img class="rounded-t-lg" src="assets/img/granlife.png" alt="" />
             </a>
             <div class="p-5">
@@ -64,7 +64,7 @@
 
                 <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Landing page do projeto GranLife, um
                     empreendimento imobiliário no centro de Barra Mansa.</p>
-                <a href="https://lp.poloconstrutora.com.br/gran-life/"
+                <a href="https://lp.poloconstrutora.com.br/gran-life/" target="_blank"
                     class="inline-flex items-center px-3 py-2 text-sm font-medium text-center bg-gradient-to-br from-kldarkblue to-klblue hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-indigo-300 dark:focus:ring-indigo-800 text-white rounded-md group">
                     Acesse
                     <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1 group-hover:translate-x-1 duration-100"
@@ -79,7 +79,7 @@
 
 
         <div class="max-w-sm bg-white border-2 border-kldarkblue rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-            <a href="https://construtorapolo.com.br">
+            <a href="https://construtorapolo.com.br" target="_blank">
                 <img class="rounded-t-lg" src="assets/img/polo.png" alt="" />
             </a>
             <div class="p-5">
@@ -102,7 +102,7 @@
 
                 <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">Site institucional feito para a Construtora
                     Polo, que atua a mais de 20 anos em diversas áreas do mercado de construção cívil e imobiliário. </p>
-                <a href="https://construtorapolo.com.br"
+                <a href="https://construtorapolo.com.br" target="_blank"
                     class="inline-flex items-center px-3 py-2 text-sm font-medium text-center bg-gradient-to-br from-kldarkblue to-klblue hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-indigo-300 dark:focus:ring-indigo-800 text-white rounded-md group">
                     Acesse
                     <svg aria-hidden="true" class="w-4 h-4 ml-2 -mr-1 group-hover:translate-x-1 duration-100"
